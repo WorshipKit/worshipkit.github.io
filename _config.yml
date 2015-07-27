@@ -1,0 +1,12 @@
+# Site settings
+title: WorshipKit Blog
+email: jason@worshipkit.com
+description: > # this means to ignore newlines until "baseurl:"
+  Sharing our passion and experiences making technology work to the benefit of our ministries.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.worshipkit.com" # the base hostname & protocol for your site
+twitter_username: worshipkit
+github_username:  worshipkit
+
+# Build settings
+markdown: kramdown
